@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+data/
+recordings/
+*.wav
+*.mp3
+*.csv
+.DS_Store
+Thumbs.db
